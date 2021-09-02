@@ -1,0 +1,15 @@
+footer {
+  margin-top: 3rem;
+  padding: 2rem 0;
+  background: #2f4f4f;
+  width: 100%;
+  color: #f4f49daf;
+}
+
+footer .container p {
+  text-align: center;
+}
+
+footer .container p a {
+  color: #e0e0e0;
+}
